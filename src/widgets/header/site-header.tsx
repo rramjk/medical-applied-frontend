@@ -62,7 +62,7 @@ export function SiteHeader() {
                   {appConfig.name}
                 </div>
                 <div className="text-xs text-muted">
-                  Medical travel helper UI
+                  Medical travel helper
                 </div>
               </div>
             </Link>
